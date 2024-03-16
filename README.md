@@ -5,6 +5,7 @@
 <h3 align="center">A 4th year computer science engineering student at ENSA Tetouan</h3>
 
 - 📫 How to reach me **maryem.risy@gmail.com**
+- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Maryem-Risy&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
