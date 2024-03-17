@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hi 👋, I'm </h1>
-<img width="200" height="200" src="https://github.com/Maryem-Risy/Maryem-Risy/issues/1#issue-2190381028">
+<img  src="https://github.com/Maryem-Risy/Maryem-Risy/issues/1#issue-2190381028">
 <h3 align="center">A 4th year computer science engineering student at ENSA Tetouan</h3>
 
 - 📫 How to reach me **maryem.risy@gmail.com**
