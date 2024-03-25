@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h1 align="center">Hi 👋, I'm Maryem Risy </h1>
+<h1 align="center">Hi 👋, I'm  </h1>
 <p align="center">
-  <img src="1.png" width="650" title="hover text">
+  <img src="1.png" width="750" title="hover text">
 </p>
 <h3 align="center">A 4th year computer science engineering student at ENSA Tetouan</h3>
 
