@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Maryem Risy </h1>
 <p align="center">
-  <img src="1.png" width="350" title="hover text">
+  <img src="1.png" width="650" title="hover text">
 </p>
 <h3 align="center">A 4th year computer science engineering student at ENSA Tetouan</h3>
 
