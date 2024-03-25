@@ -2,6 +2,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hi 👋, I'm Maryem Risy </h1>
+<p align="center">
+  <img src="1.png" width="350" title="hover text">
+</p>
 <h3 align="center">A 4th year computer science engineering student at ENSA Tetouan</h3>
 
 - 📫 How to reach me **maryem.risy@gmail.com**
