@@ -5,7 +5,7 @@
 <p align="center">
   <img src="1.png" width="750" title="hover text">
 </p>
-<h3 align="center">A 4th year computer science engineering student at ENSA Tetouan</h3>
+<h3 align="center">A final year computer science engineering student at ENSA Tetouan</h3>
 
 - 📫 How to reach me **maryem.risy@gmail.com**
 <h3 align="left">Connect with me:</h3>
