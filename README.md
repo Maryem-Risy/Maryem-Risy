@@ -3,7 +3,7 @@
 </div>
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Your Name];This+is..;..my+Github..;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I" alt="Typing SVG"/>
     </h1>
 </div>
 <!-- <h1 align="center">Hi 👋, I'm  Maryem Risy</h1> -->
@@ -37,7 +37,7 @@
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
 <a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a><br><br>
 <h3 align="left">I'm learning:</h3>
-<a href="https://www.4x-treme.com/wp-content/uploads/2019/10/spring-boot-logo.png"><img src="https://www.4x-treme.com/wp-content/uploads/2019/10/spring-boot-logo.png" alt="Spring Boot" width="70" height="50"/></a>
+<a href="https://www.4x-treme.com/wp-content/uploads/2019/10/spring-boot-logo.png"><img src="https://www.4x-treme.com/wp-content/uploads/2019/10/spring-boot-logo.png" alt="Spring Boot" width="70"/></a>
 <a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
 <a href="https://dotnet.microsoft.com/" title="dotNet"><img src="icons/dotnet.png" /></a><br><br>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Maryem-Risy&theme=dark&mode=weekly" alt="GitHub Streak" /></a><br>
