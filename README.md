@@ -30,8 +30,10 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a><br><br>
+<h3 align="left">I'm learning:</h3>
+<a href="https://www.4x-treme.com/wp-content/uploads/2019/10/spring-boot-logo.png"><img src="https://www.4x-treme.com/wp-content/uploads/2019/10/spring-boot-logo.png" alt="Spring Boot" width="60" height="40"/></a>
+<a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
+<a href="https://dotnet.microsoft.com/" title="dotNet"><img src="icons/dotnet.png" /></a><br><br>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Maryem-Risy&theme=dark&mode=weekly" alt="GitHub Streak" /></a><br>
  
-<h3 align="left">I'm learning:</h3>
-<a href="https://www.4x-treme.com/wp-content/uploads/2019/10/spring-boot-logo.png"><img src="https://www.4x-treme.com/wp-content/uploads/2019/10/spring-boot-logo.png" alt="Spring Boot" width="40" height="40"/></a>
-<a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
+
