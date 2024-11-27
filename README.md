@@ -47,5 +47,5 @@
 <a href="https://linkedin.com/in/maryem risy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maryem risy" height="30" width="40" /></a>
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Maryem-Risy&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
+
 
