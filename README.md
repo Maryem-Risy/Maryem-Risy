@@ -36,8 +36,8 @@
 <a href="https://www.4x-treme.com/wp-content/uploads/2019/10/spring-boot-logo.png"><img src="https://www.4x-treme.com/wp-content/uploads/2019/10/spring-boot-logo.png" alt="Spring Boot" width="70" /></a>
 <a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
 <a href="https://dotnet.microsoft.com/" title="dotNet"><img src="icons/dotnet.png" /></a><br><br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Maryem-Risy&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
-<div id="header" align="right">
+<a href="https://git.io/streak-stats" align="right"><img src="https://github-readme-streak-stats.herokuapp.com?user=Maryem-Risy&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
+<div id="header" align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="300"/>
 </div>
  
