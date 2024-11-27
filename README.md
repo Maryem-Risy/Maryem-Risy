@@ -16,6 +16,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
+<a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
@@ -32,5 +33,5 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Maryem-Risy&theme=dark&mode=weekly" alt="GitHub Streak" /></a><br>
  
 <h3 align="left">I'm learning:</h3>
-<a href="https://www.4x-treme.com/wp-content/uploads/2019/10/spring-boot-logo.png"><img src="https://www.4x-treme.com/wp-content/uploads/2019/10/spring-boot-logo.png" alt="Spring Boot" /></a>
-
+<a href="https://www.4x-treme.com/wp-content/uploads/2019/10/spring-boot-logo.png"><img src="https://www.4x-treme.com/wp-content/uploads/2019/10/spring-boot-logo.png" alt="Spring Boot" width="40" height="40"/></a>
+<a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
