@@ -122,7 +122,6 @@
   
   *"Innovation distinguishes between a leader and a follower"* - Steve Jobs
   
-![Profile Views](https://komarev.com/ghpvc/?username=Maryem-Risy&color=blueviolet&style=plastic&label=Profile+Views)  
 </div>
 
 ---
