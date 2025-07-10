@@ -18,13 +18,12 @@
 
 ## 🎯 About Me
 
-> Passionate Computer Science Engineer specializing in full-stack development with a focus on healthcare technology and AI-driven solutions. Currently working on innovative projects that bridge technology and healthcare to improve patient outcomes.
+> Passionate Computer Science Engineer specializing in full-stack development with a focus on new technologies and AI-driven solutions. Currently working on innovative projects that bridge technology and healthcare to improve patient outcomes.
 
 - 🔭 **Current Focus**: Digital healthcare solutions using AI/ML
 - 🌱 **Learning**: Spring Boot, Angular, .NET Core
 - 💼 **Experience**: Web/Mobile development, Database management, AI integration
 - 🎓 **Education**: Engineering degree from ENSA Tétouan
-- 📍 **Location**: Casablanca, Morocco
 
 ---
 
@@ -59,7 +58,7 @@
 
 ### **Development Tools**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,linux" />
 </div>
 
 ---
@@ -80,28 +79,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏥 Healthcare Digital Solution
-**CHU Tanger Internship Project**
-- **Description**: Digital solution for MPR service enabling patients to perform articulation exercises at home via mobile app with movement analysis
-- **Tech Stack**: Django, PostgreSQL, Flutter, Google ML Kit
-- **Features**: Patient exercise tracking, Medical progress monitoring, Real-time movement analysis
-
-### 📚 Exam Management System
-**ENSA Tétouan Development Project**
-- **Description**: Comprehensive exam management application with user-friendly interface
-- **Tech Stack**: Laravel 11, PHP, Bootstrap, JavaScript
-- **Features**: Exam planning, User authentication, Monitoring dashboard
-
-### 🏢 Administrative Document Management
-**Academic Project - Morocco Digital 2030**
-- **Description**: Modern document management system for Moroccan public services
-- **Tech Stack**: Laravel, MySQL, HTML/CSS, BPMN, Proxmox
-- **Impact**: Contributes to Morocco's digital transformation vision
-
----
-
 ## 🎓 Certifications
 
 <div align="center">
@@ -111,15 +88,6 @@
   ![Algorithms](https://img.shields.io/badge/Algorithms-Certified-00599C?style=for-the-badge&logo=algorithms&logoColor=white)
   
 </div>
-
----
-
-## 🌍 Languages
-
-- **Arabic**: Native
-- **French**: Proficient
-- **English**: Proficient  
-- **Spanish**: Basic
 
 ---
 
