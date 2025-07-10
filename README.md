@@ -69,9 +69,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Maryem-Risy&show_icons=true&theme=radical&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maryem-Risy&theme=radical&hide_border=true" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryem-Risy&layout=compact&theme=radical&hide_border=true" />
