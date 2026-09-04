@@ -4,13 +4,13 @@
   <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="300"/>
 </div>
 
-<h3 align="center">🚀 Computer Science Engineer | Full-Stack Developer | AI Enthusiast</h3>
+<h3 align="center">Computer Science Engineer · Full-Stack & Data Developer</h3>
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maryem%20risy)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryem-risy-6710aa219/)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maryem.risy@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://maryem-risy-ing.netlify.app/)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-f0a500?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maryem-risy-ing.netlify.app/)
   
 </div>
 
@@ -18,12 +18,38 @@
 
 ## 🎯 About Me
 
-> Passionate Computer Science Engineer specializing in full-stack development with a focus on new technologies and AI-driven solutions. Currently working on innovative projects that bridge technology and healthcare to improve patient outcomes.
+> I'm an engineer who likes to follow a problem all the way from the whiteboard to something real people use. My end-of-studies project turned into a mobile app that helps hospital patients track rehab exercises at home, and it's what convinced me that the most interesting work sits right at the intersection of **software and data**.
 
-- 🔭 **Current Focus**: Digital healthcare solutions using AI/ML
-- 🌱 **Learning**: Spring Boot, Angular, .NET Core
-- 💼 **Experience**: Web/Mobile development, Database management, AI integration
-- 🎓 **Education**: Engineering degree from ENSA Tétouan
+- 🏥 **Latest build**: a rehab-tracking app for the MPR department at CHU Tanger — mobile app + movement analysis + a web dashboard for doctors
+- 📊 **Also love**: turning messy data into dashboards and decision tools (Power BI, Data Warehousing, ETL)
+- 🎓 **Background**: Engineering degree (Information Systems & Decision Support) — ENSA Tétouan
+- 🌱 **Currently exploring**: Spring Boot & Angular, to round out my full-stack toolkit
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 Rehab Tracker — CHU Tanger (End-of-Studies Project)
+A digital solution for the MPR (Physical Medicine & Rehabilitation) department: patients follow guided articulation exercises at home through a mobile app that analyzes their movements, while doctors monitor progress remotely through a web interface.
+`Django` `PostgreSQL` `Flutter` `Google ML Kit`
+[Repo →](https://github.com/Maryem-Risy/REPLACE_WITH_REPO_NAME)
+
+### 📊 Academic Performance Data Warehouse
+Designed a Data Warehouse to centralize scattered academic data (students, courses, results) into a single source of truth for decision-making — from conceptual modeling to a full data dictionary and multi-source integration.
+`SQL` `PostgreSQL` `Pentaho` `BPMN`
+[Repo →](https://github.com/Maryem-Risy/REPLACE_WITH_REPO_NAME)
+
+### 📈 Client Satisfaction Dashboard
+An interactive Power BI dashboard tracking client satisfaction KPIs and trends, built to help a team spot issues before they become churn.
+`Power BI` `Jupyter Notebook`
+[Repo →](https://github.com/Maryem-Risy/REPLACE_WITH_REPO_NAME)
+
+### 🎓 Exam Management Platform
+A web app for managing exams across 3 user roles (admins, teachers, students), with secure OAuth2 authentication and a responsive interface.
+`Laravel 11` `PHP` `Bootstrap` `JavaScript`
+[Repo →](https://github.com/Maryem-Risy/REPLACE_WITH_REPO_NAME)
+
+> 💡 *Replace the placeholder links above with your actual repo URLs.*
 
 ---
 
@@ -31,17 +57,17 @@
 
 ### **Frontend Development**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </div>
 
 ### **Backend Development**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,django,java,spring" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,django,java" />
 </div>
 
 ### **Mobile Development**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio" />
 </div>
 
 ### **Database & Tools**
@@ -49,11 +75,12 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,oracle" />
 </div>
 
-### **AI/ML & Analytics**
+### **Data & BI**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-  <img src="https://img.shields.io/badge/Google%20ML%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pentaho-DA1A32?style=for-the-badge&logo=pentaho&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20ML%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
 ### **Development Tools**
@@ -69,9 +96,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Maryem-Risy&show_icons=true&theme=radical&hide_border=true" />
 </div>
 
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryem-Risy&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maryem-Risy&theme=radical&hide_border=true" />
 </div>
 
 ---
@@ -88,24 +118,16 @@
 
 ---
 
-## 📈 Current Learning Path
+## 📈 What I'm Building Now
+
+I'm currently expanding my backend toolkit with **Spring Boot** and picking up **Angular** to have a second frontend framework in my belt alongside React. Next up: applying both to a small side project that ties into healthcare data, to keep building on what I started with the CHU Tanger project.
 
 <div align="center">
   
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
   
 </div>
-
----
-
-## 💡 Fun Facts
-
-- 🎯 I'm passionate about combining healthcare and technology
-- 🌟 I love working on projects that have real-world impact
-- 🔍 Always exploring new technologies and methodologies
-- 🤝 Open to collaboration on innovative projects
 
 ---
 
@@ -117,7 +139,7 @@
   
   ### 💬 Let's Connect!
   
-  *"Innovation distinguishes between a leader and a follower"* - Steve Jobs
+  *"The best interfaces are the ones users forget they're using."*
   
 </div>
 
