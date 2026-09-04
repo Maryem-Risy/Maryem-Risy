@@ -27,32 +27,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏥 Rehab Tracker — CHU Tanger (End-of-Studies Project)
-A digital solution for the MPR (Physical Medicine & Rehabilitation) department: patients follow guided articulation exercises at home through a mobile app that analyzes their movements, while doctors monitor progress remotely through a web interface.
-`Django` `PostgreSQL` `Flutter` `Google ML Kit`
-[Repo →](https://github.com/Maryem-Risy/REPLACE_WITH_REPO_NAME)
-
-### 📊 Academic Performance Data Warehouse
-Designed a Data Warehouse to centralize scattered academic data (students, courses, results) into a single source of truth for decision-making — from conceptual modeling to a full data dictionary and multi-source integration.
-`SQL` `PostgreSQL` `Pentaho` `BPMN`
-[Repo →](https://github.com/Maryem-Risy/REPLACE_WITH_REPO_NAME)
-
-### 📈 Client Satisfaction Dashboard
-An interactive Power BI dashboard tracking client satisfaction KPIs and trends, built to help a team spot issues before they become churn.
-`Power BI` `Jupyter Notebook`
-[Repo →](https://github.com/Maryem-Risy/REPLACE_WITH_REPO_NAME)
-
-### 🎓 Exam Management Platform
-A web app for managing exams across 3 user roles (admins, teachers, students), with secure OAuth2 authentication and a responsive interface.
-`Laravel 11` `PHP` `Bootstrap` `JavaScript`
-[Repo →](https://github.com/Maryem-Risy/REPLACE_WITH_REPO_NAME)
-
-> 💡 *Replace the placeholder links above with your actual repo URLs.*
-
----
-
 ## 🛠️ Tech Stack
 
 ### **Frontend Development**
@@ -146,5 +120,5 @@ I'm currently expanding my backend toolkit with **Spring Boot** and picking up *
 ---
 
 <div align="center">
-  ⭐️ From <a href="https://github.com/Maryem-Risy">Maryem Risy</a>
+  ⭐️ Made with care by<a href="https://github.com/Maryem-Risy">Maryem Risy</a>
 </div>
