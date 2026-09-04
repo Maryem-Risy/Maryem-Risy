@@ -120,5 +120,5 @@ I'm currently expanding my backend toolkit with **Spring Boot** and picking up *
 ---
 
 <div align="center">
-  ⭐️ Made with care by<a href="https://github.com/Maryem-Risy">Maryem Risy</a>
+  ⭐️ Made with care by <a href="https://github.com/Maryem-Risy">Maryem Risy</a>
 </div>
